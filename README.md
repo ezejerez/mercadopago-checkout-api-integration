@@ -1,11 +1,11 @@
-# MERCADOPAGO CHECKOUT API INTEGRATION
+# MercadoPago CheckoutAPI Integration
 
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes.
 
-This project use pnpm for manage dependencies:
+This project use pnpm for managing dependencies:
 
     npm install -g pnpm
 
